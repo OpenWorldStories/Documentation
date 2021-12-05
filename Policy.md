@@ -1,5 +1,5 @@
 ---
-version: v0.1.0
+version: v0.1.1
 
 ---
 
@@ -41,7 +41,7 @@ It is perfectly feasible that a story line will have many layers of child storyl
 
 A user will create a storyline and then invite users to discuss and improve the storyline. A casting phase will then begin to find characters to fit into that story line. Those users / characters can then discuss the best way of telling that story.
 
-The user who created the storyline will become its owner. They will have complete creative control over the story, and will be required to ensure that the story meets the cannon requirements of the parent storyline.
+The user who created the storyline will become its owner. They will have complete creative control over the story, and will be required to ensure that the story meets the canon requirements of the parent storyline.
 
 Storylines will have the ability to add language translations, giving translators a space to showcase their abilities.
 
@@ -92,7 +92,7 @@ It will be possible to direct a donation to either OWS in general, or a specific
 
 Every in world story line will have a pot attached to it that will keep track of what monies it has generated. Every user that has contributed to that story line will receive a share of that money. The percentage of which will be based on a formula, that can be adjusted by a vote if required.
 
-Only users writing content adhering to cannon will be eligible for payments.
+Only users writing content adhering to canon will be eligible for payments.
 
 Users will register a crypto currency address in order to be paid, thus helping to maintain their privacy.
 
